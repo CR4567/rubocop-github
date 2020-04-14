@@ -108,9 +108,6 @@ Lint/EmptyEnsure:
 Lint/EmptyInterpolation:
   Enabled: true
 
-Lint/EndInMethod:
-  Enabled: true
-
 Lint/EnsureReturn:
   Enabled: true
 
@@ -300,6 +297,9 @@ Style/MultilineIfThen:
   Enabled: true
 
 Style/NilComparison:
+  Enabled: true
+
+Style/EndBlock:
   Enabled: true
 
 Style/Not:
